@@ -27,7 +27,7 @@ public class LogUtils {
         }
     }
 
-    static void d(String message, Object... args) {
+    public static void d(String message, Object... args) {
         if (DEBUG || Log.isLoggable(LOGTAG, Log.DEBUG)) {
             Log.d(LOGTAG, args == null || args.length == 0 ? message
                     : String.format(message, args));

@@ -1,4 +1,7 @@
 # android-utils
+
+[![](https://jitpack.io/v/stasbar/utils-android.svg)](https://jitpack.io/#stasbar/utils-android)
+
 Android Utils Library
 
 How to use:
